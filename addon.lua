@@ -1,3 +1,5 @@
+if select(2, UnitClass('player')) ~= 'HUNTER' then return end
+
 local f = CreateFrame('Frame')
 f:SetScript('OnEvent', function (self, event, ...)
 	local unit = ...
