@@ -1,2 +1,7 @@
-## Interface: 30200
-addon.lua
+## Interface: 30300
+## Title: idHunterCancelDaze
+## Notes: Cancels aspects when a party member or you gets hit.
+## Author: Industrial
+
+Addon.lua
+
